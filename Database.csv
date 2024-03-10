@@ -1,2 +1,10 @@
-Day,Time,Attraction1,Attraction2,Food1,Food2,Food3
-1,11am,http://xhslink.com/XdQZhC,http://xhslink.com/XdQZhC,http://xhslink.com/XdQZhC,http://xhslink.com/XdQZhC,http://xhslink.com/XdQZhC
+Day,Time,Type,Title,Link,,,,,,,,
+1,11am,Attraction,????,http://xhslink.com/XdQZhC,,,,,,,,
+1,12pm,Attraction,????,http://xhslink.com/XdQZhC,,,,,,,,
+1,1pm,Food,????,http://xhslink.com/XdQZhC,,,,,,,,
+2,11am,Attraction,????,http://xhslink.com/XdQZhC,,,,,,,,
+2,12pm,Attraction,????,http://xhslink.com/XdQZhC,,,,,,,,
+2,1pm,Food,????,http://xhslink.com/XdQZhC,,,,,,,,
+3,11am,Attraction,????,http://xhslink.com/XdQZhC,,,,,,,,
+3,12pm,Attraction,????,http://xhslink.com/XdQZhC,,,,,,,,
+3,1pm,Food,????,http://xhslink.com/XdQZhC,,,,,,,,
